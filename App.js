@@ -6,6 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Open the Music Player app!</Text>
+      <Text>What could possibly go wrong?</Text>
       <StatusBar style="auto" />
     </View>
   );
